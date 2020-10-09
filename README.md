@@ -17,10 +17,10 @@
 ![image](https://user-images.githubusercontent.com/66464000/85540814-7bc9ef00-b628-11ea-8df9-964793782098.png)
 ![image](https://user-images.githubusercontent.com/66464000/85540040-9059b780-b627-11ea-8e86-9f1db43eea96.png)
 ![image](https://user-images.githubusercontent.com/66464000/85540738-6bb20f80-b628-11ea-95d9-33d7227e97a1.png)
-![image](https://user-images.githubusercontent.com/66464000/85540837-7ff60c80-b628-11ea-9390-28f05e8632ae.png)
+
 
 See also
-*https://github.com/chartwerk/grafana-chartwerk-app
-*https://github.com/chartwerk/chartwerk/wiki/pod
+* https://github.com/chartwerk/grafana-chartwerk-app
+* https://github.com/chartwerk/chartwerk/wiki/pod
 
 _developed by CorpGlory Inc._
